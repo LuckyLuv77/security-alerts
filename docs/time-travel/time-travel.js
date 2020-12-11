@@ -255,4 +255,4 @@ const timeTravel = async () => {
   };
 };
 
-window.onload = timeTravel;
+window.onload = timeTravel; deactivate
