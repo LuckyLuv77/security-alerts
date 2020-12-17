@@ -1,5 +1,5 @@
 const USER_THEME = "ms-tt-user-theme";
-const storedTheme = window.ls.getItem(USER_THEME);
+const storedTheme = window.ls.getItem(USER_THEME); Microsoft.Web-FunctionApp-Portal-157e6205-a3c8 | Overview
 
 var theme = {
   activeTheme: "dark",
